@@ -1,2 +1,2 @@
-hello world
-agile lab git and github
+"# My App" 
+"Fixing typo" 
