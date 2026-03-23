@@ -1,1 +1,2 @@
 "# My App" 
+"Fixing typo" 
